@@ -56,5 +56,5 @@ My journey in computer science and IT support has led me to transition into this
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/dayronsuazo/Phishing-Campaign">Phishing Campaign</a>
 - SOC Automation Project
