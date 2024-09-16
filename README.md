@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/dayronsuazo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Intro
-I’m an IT Support Engineer with a strong passion in cyber security. In this blog, I will be documenting my job related experiences and side projects to showcase my skills that are relevant to this field.
+I’m an IT Support Engineer with over 4 years of experience with a strong passion in cyber security. In this blog, I will be documenting my job related experiences and side projects to showcase my skills that are relevant to this field.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -34,14 +34,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
