@@ -1,12 +1,8 @@
-# Hello, I'm Dayron
+# Hello, I'm Dayron 👋
 <a href="https://www.linkedin.com/in/dayronsuazo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I’m an IT Security Operations professional with expertise in protecting networks, systems, and data. I specialise in incident response, threat detection, and vulnerability management, using tools like SIEM and Microsoft Defender. I've successfully led security initiatives, including phishing campaigns and awareness programs.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
