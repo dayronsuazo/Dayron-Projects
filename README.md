@@ -1,8 +1,8 @@
 # Hello, I'm Dayron 👋
 <a href="https://www.linkedin.com/in/dayronsuazo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an IT Security Operations professional with expertise in protecting networks, systems, and data. I specialise in incident response, threat detection, and vulnerability management, using tools like SIEM and Microsoft Defender. I've successfully led security initiatives, including phishing campaigns and awareness programs.
-
+# Intro
+I’m an IT Support Engineer with a strong passion in cyber security. In this blog, I will be documenting my job related experiences and side projects to showcase my skills that are relevant to this field.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -27,6 +27,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
+### Cloud
+<img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
 ### Endpoint
 <div>
