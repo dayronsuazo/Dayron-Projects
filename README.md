@@ -5,7 +5,7 @@
 I’m an IT Support Engineer with over 4 years of experience with a strong passion in cyber security. In this blog, I will be documenting my job related experiences and side projects to showcase my skills that are relevant to this field.
 
 # Objective
-My journey in computer science and IT support has led me to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science and IT support has led me to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
